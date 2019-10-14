@@ -1,0 +1,126 @@
+body{
+    background-color:black;
+}
+p,u,i,h1,h2,h3,h4,h5,h6,span,b{
+    color:rgb(250, 244, 244);
+}
+
+#da{
+    float:left;
+   
+}
+
+#db{
+    float:left;
+    
+}
+#dc{
+    float: left;
+}
+#sa{
+    float: left;
+}
+#sb{
+    float:left;
+}
+
+
+#ima{
+    margin:2;
+}
+#imb{
+    margin:2;
+}
+#imc{
+    margin:2;
+}
+#imd{
+    margin:2;
+}
+#ime{
+    margin:2;
+}
+#imf{
+    margin:2;
+}
+#img{
+    margin:2;
+}
+#imh{
+    margin:2;
+}
+#imi{
+    margin:2;
+}
+#inpi{
+    width: 86;
+}
+#inpa{
+    width: 86;
+}
+#inpb{
+    width: 86;
+}
+#inpc{
+    width: 86;
+}
+#inpd{
+    width: 86;
+}
+#inpe{
+    width: 86;
+}
+#inpf{
+    width: 86;
+}
+#inpg{
+    width: 86;
+}
+#inph{
+    width: 86;
+}
+
+#dp{
+clear:both;
+margin-left: 9;
+}
+#search{
+    width:500;
+    height: 200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
